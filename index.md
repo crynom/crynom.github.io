@@ -8,6 +8,19 @@
 
 ---
 
+#### Indications For Persistent Oil Demand
+
+10/05/2022 6:10PM
+
+Today OPEC+ announced production cuts of 2 million barrels per day (bpd). According to Reuters, since some OPEC nations were already below production targets, this amounts to an estimated real cut of 1 million bpd. The White House released a statement of "disappointment" regarding these cuts as the West attempts to weaken the leverage and economic benefits to Russia from higher oil prices. This output cut follows the minor cut made in September of 100,000 bpd, a minor reduction in the grand scheme of things, but equivalent to the production increase announced by OPEC not 2 months earlier following President Biden's visit to Saudi Arabia. The reason for Biden's visit? To lower energy prices and by extension consumer gas prices. In an attempt to keep prices low following today's announcement from OPEC+, the Department of Energy is scheduled to release another 10 million barrels from the Stratgeic Petroleum Reserve (SPR) onto the market next month. Throughout 2022 nearly 180 million barrels have been released from the SPR in order to lower costs at the pump. As of December 31, 2021 there were about 593,682,000 barrels in reserve, by September 30, 2022 this amounted to only 416,389,000. The historic release of oil from the SPR has undeniably lowered gas costs for consumers, but at what cost to the government? Releases were made under the assumption that the SPR could be refilled at a lower price in the following years, when geopolitical conditions are likely to be less tense. OPEC, in fact, based their production cuts on the premise of a looming recession and consequential reduction in demand for oil. However, I believe there are several factors that may lead to persistent demand for oil which may cause refilling US reserves to be more costly than anticipated.
+
+On the surface level, the sheer amount of oil released from the SPR is not trivial relative to daily production amounts, which averaged 77 million bpd in 2021. This may lead to higher anticipated demand from non-production related activity in the following years as the SPR is refilled. Although there are many signs pointing towards an near-term global economic decline, the proactive cuts from OPEC and the sanctions on Russian energy significantly reduce the available supply of oil as inputs, let alone to refill US reserves. Further cuts from OPEC may arise as the dollar and other global currencies gain strength from higher interest rates. On the demand side, India's rapidly expanding economy may mean we are on the precipice of the next commodity super cycle. Life expectancy and GDP have been more rapidly increasing in India since the turn of the 21st century, while poverty rates have declined. On top of this, India passed the UK in early September to become the 5th largest global economy. Higher rates of expansion could lead to a comparable increase in demand for commodities which was recently seen with the extreme growth in China. Further increases in the rate of growth in India may induce upward pricing pressure on global commodity markets for a significant amount of time. Coupled with the reduction in supply due to an anticipated economic downturn and a gaping hole in the SPR, it seems higher energy prices may be here to stay, although perhaps not a current price levels. I eagerly await a plan from the White House to restore reserves and can only be hopeful that it does not cost the taxpayer more than it was worth in the end.
+
+Best,
+Michael Nicola
+
+---
+
 #### JOLTS Data And Rebounding Markets
 
 10/04/2022 1:09PM
