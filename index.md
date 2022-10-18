@@ -8,6 +8,20 @@
 
 ---
 
+#### Mississippi Record Lows And The Fed Pivot
+
+10/18/2022 1:42PM
+
+Drought has hit more than the Yangtze and Rhine rivers it seems as the Mississippi River has recorded all-time low water levels near Memphis. While droughts certainly affect crop yields, another crucial aspect is the effect on shipping. The reduction in water levels could result in a lowered capacity for barges which travel along the Mississippi, adding further restrictions to supply. Furthermore, reductions in the ability to ship goods like soybeans and corn could have additional negative effects on the ability for farmers to upkeep livestock. With inflation already at decade highs, greater restrictions in the supply of food could add to the persistently high CPI numbers. As the Fed looks to contract demand, it seems they are fighting a continually uphill battle and it is my opinion that easing will not occur unless credit spreads become too overbearing on businesses. Barring a severe credit event or high rates of delinquencies and defaults, it seems we will almost certainly be facing another 150 basis points this year and potentially smaller hikes to come next year.
+
+In markets and in the media, it seems everyone is seeking the bottom. On a marginally worse than expected CPI release, there was a short-lived but intense rally in the major indices. Although the sentiment appears to be shifting towards finding any reason to be bullish, I believe reasons to be positive in the near term are few and far between. If low water levels put pressure on farmers and shipping via the Mississippi, we may be seeing high food prices accompany gas prices which will only push the Fed to restrict demand more severely. More troubling is the idea that farmers may begin to cut output in expectation of lower deliverable capacity. Perhaps the market has already baked in a looming recession, although it seems to me much of the bullish action is unfounded and speculative. The Bank of England's recent purchasing of gilts has lulled market participants into a sense of security and generated optimism regarding a potential pivot from the Fed. This is an outcome I find unlikely in the near future given the commitment made by the Fed and the necessity to maintain credibility in achieving inflation targets. We are in a very different place than we were during the pandemic, and it seems that markets are certainly not the primary concern of the Fed in making policy decisions. If the Fed remains tight to finish the year and early into the next I believe we could begin to see easing occur in the second half of 2023, but further supply related issues may throw a wrench in this timeline even assuming a higher targetted rate of inflation for the next few years. Either way, I am not one to call a bottom, but I find it hard to justify that it may come sooner rather than later.
+
+Best,
+
+Michael Nicola
+
+---
+
 #### Indications For Persistent Oil Demand
 
 10/05/2022 6:10PM
