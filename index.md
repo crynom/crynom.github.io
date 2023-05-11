@@ -10,7 +10,7 @@
 
 #### Are Further Regional Bank Troubles Ahead?
 
-5/10/2023 9:20AM
+5/10/2023 7:20PM
 
 Financial news as of late has spared no coverage of the issues plaguing US regional banks. Although the precise cause of each failure may not be the same between the banks facing distress, a common theme regarding rate decisions has emerged. First Republic, which tailored its services to high net worth individuals, did not face the same circumstances of failure as did Silicon Valley Bank and Signature Bank. The commonality between these 3 failures, the 2nd, 3rd, and 4th largest bank failures in US history, are excessive paper losses on fixed income portfolios.
 
