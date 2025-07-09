@@ -1,4 +1,4 @@
-# My Econ and Data Analysis Blog
+# My Econ and Data Science Blog
 
 ## This page is currently under development because I have no experience with web development
 
