@@ -8,6 +8,20 @@
 
 ---
 
+#### Why Open Weights Matter
+
+11/24/2026
+
+Unlike my previous articles, this one is going to be an opinion piece. I am going to write a sort of outline and fill this article over a couple writing sessions.
+
+Commentary on Jensen Huang. My take on the conspiracy behind it. Jensen's actions in favor of open weights.
+
+My opinion on the prospect of gatekeeping intelligence. Technological advancement and human tribalism. Surely there is more to add here...
+
+Best,
+
+Michael Nicola
+
 #### De-Dollarization, Trendy or Trendsetting?
 
 7/8/2025 9:37PM
@@ -27,6 +41,10 @@ In May of this year, Moody's became the final of the 3 major credit ratings agen
 Another, rather unexpected, drag on the dollar has been sitting in plain sight for some time. Aside from financing costs and debt service, the dollar is partially propped up by a large amount of demand in global trade. To establish some context, in the third quarter of 2024, the US dollar [accounted for 57.8%](https://data.imf.org/en/news/4225global%20fx%20reserves%20decreased%20by%203%20percent%20in%202024q4?_hsenc=p2ANqtz-_LsiOsFlkCqefwOWQMaPzh5ca_z7RkvwiwlpeabV7WolVrC0Fz__JQnfWs3S044aPYH65wFxmYiY5-QmlOK9uMa4UgZw) of the share of holdings in allocated foreign currency reserves. While not all of this is earmarked for trade settlement, a significant driver of these foreign currency reserves are necessary for countries looking to buy energy products such as oil. This is due to the petrodollar arrangement, which was established in the 1970s when Saudi Arabia agreed to price their oil exclusively in US dollars. The move towards electrification and renewable energy sources will eliminate a lot of this indirect demand for dollars. Even before oil loses its luster in global trade, degradation of the petrodollar may already be underway, with [Saudi Arabia alluding to openness](https://www.semafor.com/article/09/09/2024/to-woo-china-saudi-arabia-may-accept-yuan-for-oil) in pricing in yuan rather than exclusively dollars. Whether it be coincidence or not, the elimination of the electric vehicle tax credit in the US may extend use of fossil fuels for a bit longer, and thus the life of the petrodollar, but the sun is soon setting on the geopolitical leverage and increased demand garnered by pricing energy in dollars.
 
 Surely, the world will not forget the dollar tomorrow, perhaps not even in the next 5 or 10 years, however the cracks in the dominance of the dollar are showing and they are here to stay in my opinion. The question to ask now is rather not "what currency will replace the dollar', but "what model will replace the unipolar dominance of the dollar?". Given the strong reactions to the US foreign policy across the globe in a short few months, I question if another single fiat currency will act as the reserve of the future. Whether a multi-polar system emerges, where it's likely that the dollar, euro, yuan, yen, and franc likely share the stage or whether digital assets finally take more precedence on the financial stage is to be seen with time. As an example, ethereum has been building large amounts of financial infrustructure and benefits from a vibrant financial ecosystem, which is strengthened by the decentralized nature of the platform. One thing is for certain though, the dollar has faltered, and the world has taken notice. It is only a matter of time now before the special treatment which it sees will fade, albeit with a significant offramp due to the large amounts of dollar denominated debt already floating around in the global economy.
+
+Best,
+
+Michael Nicola
 
 ---
 
