@@ -1,0 +1,8 @@
+title: My Econ and Data Science Blog
+description: Short articles on things I find interesting about data analysis and my thoughts on current events.
+author: Michael Nicola
+url: "https://crynom.github.io"
+theme: minima
+permalink: /:year/:month/:day/:title/
+exclude:
+  - README.md
