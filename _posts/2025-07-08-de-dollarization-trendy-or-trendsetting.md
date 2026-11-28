@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "De-Dollarization, Trendy or Trendsetting?"
+categories: [current-events]
 date: 2025-07-08 21:37 -0400
 ---
 

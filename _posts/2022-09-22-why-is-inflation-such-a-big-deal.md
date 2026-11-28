@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why Is Inflation Such a Big Deal?"
+categories: [current-events]
 date: 2022-09-22 09:12 -0400
 ---
 

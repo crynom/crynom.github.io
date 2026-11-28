@@ -4,6 +4,7 @@ description: A combination of analyses and opinion pieces on things I find inter
 author: crynom
 header_pages:
   - about.md
+  - archive.md
   - missager/index.md
 url: "https://crynom.github.io"
 theme: minima

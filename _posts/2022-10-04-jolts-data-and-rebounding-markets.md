@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "JOLTS Data And Rebounding Markets"
+categories: [current-events, markets]
 date: 2022-10-04 13:09 -0400
 ---
 

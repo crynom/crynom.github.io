@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "RIP FED Pivot"
+categories: [current-events]
 date: 2022-12-22 08:47 -0400
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Using Statistical Methods For Asset Pricing"
+categories: [data, markets]
 date: 2022-11-06 17:22 -0400
 ---
 

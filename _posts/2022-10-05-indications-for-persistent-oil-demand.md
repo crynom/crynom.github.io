@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Indications For Persistent Oil Demand"
+categories: [markets]
 date: 2022-10-05 18:10 -0400
 ---
 

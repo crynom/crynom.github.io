@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fed Credibility And Tightening Conditions"
+categories: [current-events]
 date: 2022-09-27 15:39 -0400
 ---
 

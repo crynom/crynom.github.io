@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "September 20-21 FOMC Meeting and Conference Thoughts"
+categories: [current-events]
 date: 2022-09-21 15:00 -0400
 ---
 

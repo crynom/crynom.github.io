@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Short IPOs and Long Indexes"
+categories: [markets]
 date: 2022-12-03 18:18 -0400
 ---
 

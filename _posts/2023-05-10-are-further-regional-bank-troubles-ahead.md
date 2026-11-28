@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Are Further Regional Bank Troubles Ahead?"
+categories: [markets]
 date: 2023-05-10 19:20 -0400
 ---
 

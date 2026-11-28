@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why Open Weights Matter"
+categories: [opinion]
 date: 2026-11-24 12:00 -0400
 ---
 

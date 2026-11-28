@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Mississippi Record Lows And The Fed Pivot"
+categories: [current-events]
 date: 2022-10-18 13:42 -0400
 ---
 
