@@ -11,5 +11,3 @@ Commentary on Jensen Huang. My take on the conspiracy behind it. Jensen's action
 My opinion on the prospect of gatekeeping intelligence. Technological advancement and human tribalism. Surely there is more to add here...
 
 Best,
-
-Michael Nicola

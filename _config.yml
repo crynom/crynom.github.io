@@ -1,6 +1,10 @@
-title: My Econ and Data Science Blog
-description: Short articles on things I find interesting about data analysis and my thoughts on current events.
-author: Michael Nicola
+# `title` shows in the header and browser tab; `description` shows in the footer and in search/social previews.
+title: crynom.github.io
+description: A combination of analyses and opinion pieces on things I find interesting. Perhaps, at times, educational resources and projects.
+author: crynom
+header_pages:
+  - about.md
+  - missager/index.md
 url: "https://crynom.github.io"
 theme: minima
 permalink: /:year/:month/:day/:title/

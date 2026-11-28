@@ -11,5 +11,3 @@ Months ago, in early 2022, I used Keras and Tensorflow to predict digital asset 
 In the near future, I am seeking to improve the current model that has been applied to digital assets. When I feel that significant progress has been made, I will attempt to translate these principles towards pricing commodity derivatives and potentially equities. Over the lifespan of this endeavour, I will try to maintain timely updates on progress and code samples so my work can be assessed and scrutinized. For those who may stumble across my journey to create my own pricing model, I hope something can be learned from my failures and hopefully that more can be learned from any successes. I cannot determine a timeline at this moment, but I am looking to prioritize this project over my other projects in my free time, which is already relatively scarce. I will still be posting current event articles when I have a chance, and I hope to come with updates soon.
 
 Best,
-
-Michael Nicola
