@@ -1,0 +1,41 @@
+---
+# Replaces the theme's main.scss: loads the theme's styles, then the overrides below.
+---
+
+@import "no-style-please";
+
+// ---------- Yap City palette (dark, terminal green) ---------- //
+$bg:      #0b0e0b;
+$fg:      #c5d1c5;
+$heading: #e6f2e6;
+$dim:     #6b7a6b;
+$accent:  #4af626;
+$surface: #161c16;
+
+html, body { background-color: $bg; }
+body { color: $fg; }
+
+h1, h2, h3, h4 { color: $heading; }
+
+a { color: $accent; text-decoration: none; }
+a:visited { color: darken($accent, 18%); }
+a:hover { text-decoration: underline; }
+
+*:target { background-color: darken($accent, 38%); }
+
+code { color: $fg; background-color: $surface; }
+table, th, td, blockquote { border-color: $dim; }
+hr { color: $dim; }
+
+.meta { color: $dim; font-size: 1rem; margin-top: -0.5rem; }
+
+// ---------- Long-form reading ---------- //
+// Menus, titles and dates stay monospace; paragraphs inside posts use a proportional
+// font, which is easier on the eyes for long essays.
+.post p,
+.post li,
+.post blockquote {
+  font-family: -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 1.1rem;
+  line-height: 1.65;
+}

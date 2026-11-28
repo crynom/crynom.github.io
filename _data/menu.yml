@@ -1,0 +1,23 @@
+# Home page menu (no-style-please). Docs: https://github.com/riggraz/no-style-please#customize-the-menu
+# `url: false` renders plain text; `post_list: true` lists every post under that entry, newest first.
+
+entries:
+  - title: posts
+    url: false
+    post_list: true
+
+  - title: browse
+    url: false
+    entries:
+      - title: archive, by category
+        url: /archive/
+      - title: about
+        url: /about/
+      - title: rss
+        url: /feed.xml
+
+  - title: projects
+    url: false
+    entries:
+      - title: missager
+        url: /missager/

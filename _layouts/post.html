@@ -1,0 +1,16 @@
+---
+layout: default
+---
+{%- comment -%}
+Override of no-style-please's post layout (v0.3.1). Differences from upstream:
+date + categories under the title for posts, and an <article class="post"> wrapper
+so assets/css/main.scss can style long-form text separately from menus.
+{%- endcomment -%}
+<a href="{{ '/' | relative_url }}">{{ site.theme_config.back_home_text }}</a>
+<article class="post">
+  <h1>{{ page.title }}</h1>
+  {%- if page.collection == "posts" %}
+  <p class="meta">{{ page.date | date: site.theme_config.date_format }}{% if page.categories.size > 0 %} · {{ page.categories | join: ", " }}{% endif %}</p>
+  {%- endif %}
+  {{ content }}
+</article>
